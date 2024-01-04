@@ -1,0 +1,13 @@
+body{
+    background: #908585;
+}
+.carte{
+    width: 50%;
+    padding: 10px 20px;
+    border-radius: 20px;
+    box-shadow: rgba(118, 92, 92, 0.5) 5px 5px 5px ;
+    background: #c5c5c5;
+}
+h1, .carte{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
